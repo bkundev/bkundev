@@ -1,3 +1,10 @@
+### ⚙️ &nbsp;Stats and Activity
+
+<p align="center">
+<a href="https://github.com/bkundev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bkundev&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bkundev&layout=compact&langs_count=10&theme=radical"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=bkundev&theme=radical&ring=EB5454"/>
 <!--START_SECTION:waka-->
 
 ```all_time
