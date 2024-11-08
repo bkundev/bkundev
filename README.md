@@ -2,17 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 October 2024 - To: 06 November 2024
+From: 31 October 2024 - To: 07 November 2024
 
-Total Time: 13 hrs 59 mins
+Total Time: 16 hrs 27 mins
 
-TypeScript                 12 hrs 32 mins  >>>>>>>>>>>>>>>>>>>>>>---   89.60 %
-JavaScript                 42 mins         >------------------------   05.06 %
-YAML                       18 mins         >------------------------   02.26 %
-Bash                       12 mins         -------------------------   01.54 %
-JSON                       8 mins          -------------------------   01.01 %
-Docker                     3 mins          -------------------------   00.38 %
-Nginx configuration file   1 min           -------------------------   00.15 %
+TypeScript                 14 hrs 53 mins  >>>>>>>>>>>>>>>>>>>>>>>--   90.54 %
+JavaScript                 49 mins         >------------------------   05.00 %
+YAML                       18 mins         -------------------------   01.92 %
+Bash                       12 mins         -------------------------   01.30 %
+JSON                       8 mins          -------------------------   00.86 %
+Docker                     2 mins          -------------------------   00.26 %
+Nginx configuration file   1 min           -------------------------   00.13 %
 Text                       0 secs          -------------------------   00.01 %
 ```
 
