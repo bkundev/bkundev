@@ -2,14 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 November 2024 - To: 27 November 2024
+From: 21 November 2024 - To: 28 November 2024
 
-Total Time: 7 hrs 59 mins
+Total Time: 10 hrs 5 mins
 
-TypeScript   2 hrs 46 mins   >>>>>>>>>----------------   34.80 %
-C#           1 hr 46 mins    >>>>>>-------------------   22.14 %
-Python       1 hr            >>>----------------------   12.63 %
-Other        52 mins         >>>----------------------   11.06 %
+TypeScript   2 hrs 46 mins   >>>>>>>------------------   27.51 %
+JavaScript   1 hr 49 mins    >>>>>--------------------   18.04 %
+C#           1 hr 46 mins    >>>>---------------------   17.51 %
+Python       1 hr            >>-----------------------   09.99 %
+Other        52 mins         >>-----------------------   08.75 %
 ```
 
 <!--END_SECTION:waka-->
