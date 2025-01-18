@@ -2,14 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 January 2025 - To: 16 January 2025
+From: 10 January 2025 - To: 17 January 2025
 
-Total Time: 1 hr 15 mins
+Total Time: 1 hr 38 mins
 
-JavaScript   48 mins         >>>>>>>>>>>>>>>>---------   64.00 %
-EJS          27 mins         >>>>>>>>>----------------   35.74 %
-HTML         0 secs          -------------------------   00.16 %
-Other        0 secs          -------------------------   00.10 %
+JavaScript   1 hr 7 mins     >>>>>>>>>>>>>>>>>--------   68.32 %
+EJS          30 mins         >>>>>>>>-----------------   30.40 %
+TypeScript   1 min           -------------------------   01.08 %
+HTML         0 secs          -------------------------   00.13 %
+Other        0 secs          -------------------------   00.08 %
 ```
 
 <!--END_SECTION:waka-->
