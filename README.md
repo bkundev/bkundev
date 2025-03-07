@@ -2,19 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 February 2025 - To: 05 March 2025
+From: 27 February 2025 - To: 06 March 2025
 
-Total Time: 9 hrs 42 mins
+Total Time: 8 hrs 27 mins
 
-TypeScript                 7 hrs 4 mins    >>>>>>>>>>>>>>>>>>-------   72.85 %
-Nginx configuration file   1 hr 4 mins     >>>----------------------   11.14 %
-Bash                       24 mins         >------------------------   04.20 %
-YAML                       22 mins         >------------------------   03.87 %
-Vue.js                     18 mins         >------------------------   03.24 %
-Docker                     10 mins         -------------------------   01.77 %
-JSON                       4 mins          -------------------------   00.80 %
-JavaScript                 3 mins          -------------------------   00.64 %
-Other                      2 mins          -------------------------   00.46 %
+TypeScript                 4 hrs 4 mins    >>>>>>>>>>>>-------------   48.10 %
+JavaScript                 2 hrs 30 mins   >>>>>>>------------------   29.66 %
+Nginx configuration file   43 mins         >>-----------------------   08.64 %
+Bash                       22 mins         >------------------------   04.49 %
+Vue.js                     18 mins         >------------------------   03.71 %
+YAML                       15 mins         >------------------------   02.96 %
+JSON                       4 mins          -------------------------   00.95 %
+Other                      2 mins          -------------------------   00.42 %
 ```
 
 <!--END_SECTION:waka-->
