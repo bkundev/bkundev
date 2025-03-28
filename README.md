@@ -2,17 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 19 March 2025 - To: 26 March 2025
+From: 20 March 2025 - To: 27 March 2025
 
-Total Time: 6 hrs 4 mins
+Total Time: 2 hrs 36 mins
 
-JavaScript   4 hrs 50 mins   >>>>>>>>>>>>>>>>>>>>-----   79.82 %
-Bash         31 mins         >>-----------------------   08.65 %
-TypeScript   15 mins         >------------------------   04.14 %
-EJS          13 mins         >------------------------   03.77 %
-JSON         6 mins          -------------------------   01.65 %
-YAML         3 mins          -------------------------   01.00 %
-Other        3 mins          -------------------------   00.96 %
+JavaScript   1 hr 9 mins     >>>>>>>>>>>--------------   44.49 %
+Bash         31 mins         >>>>>--------------------   20.14 %
+Other        17 mins         >>>----------------------   11.06 %
 ```
 
 <!--END_SECTION:waka-->
