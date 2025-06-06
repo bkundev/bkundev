@@ -2,20 +2,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 28 May 2025 - To: 04 June 2025
+From: 29 May 2025 - To: 05 June 2025
 
-Total Time: 19 hrs 11 mins
+Total Time: 17 hrs 20 mins
 
-TypeScript                 10 hrs 1 min    >>>>>>>>>>>>>------------   52.24 %
-JavaScript                 5 hrs 44 mins   >>>>>>>------------------   29.92 %
-Solidity                   49 mins         >------------------------   04.30 %
-YAML                       40 mins         >------------------------   03.55 %
-Bash                       38 mins         >------------------------   03.33 %
-JSON                       21 mins         -------------------------   01.89 %
-Nginx configuration file   15 mins         -------------------------   01.36 %
-HTML                       15 mins         -------------------------   01.32 %
-Docker                     11 mins         -------------------------   00.96 %
-Git Config                 9 mins          -------------------------   00.80 %
+TypeScript                 10 hrs 6 mins   >>>>>>>>>>>>>>>----------   58.26 %
+JavaScript                 4 hrs 36 mins   >>>>>>>------------------   26.57 %
+Solidity                   1 hr 5 mins     >>-----------------------   06.27 %
+Bash                       30 mins         >------------------------   02.97 %
+JSON                       21 mins         >------------------------   02.10 %
+YAML                       17 mins         -------------------------   01.66 %
+Docker                     11 mins         -------------------------   01.06 %
+Nginx configuration file   6 mins          -------------------------   00.64 %
+CSS                        1 min           -------------------------   00.18 %
+HTML                       1 min           -------------------------   00.10 %
 ```
 
 <!--END_SECTION:waka-->
