@@ -2,17 +2,20 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 27 June 2025 - To: 04 July 2025
+From: 28 June 2025 - To: 05 July 2025
 
-Total Time: 12 hrs 15 mins
+Total Time: 10 hrs 28 mins
 
-JavaScript      6 hrs 41 mins   >>>>>>>>>>>>>>-----------   54.56 %
-TypeScript      1 hr 17 mins    >>>----------------------   10.58 %
-YAML            1 hr 16 mins    >>>----------------------   10.43 %
-JSON            1 hr 5 mins     >>-----------------------   08.87 %
-Solidity        42 mins         >------------------------   05.75 %
-TOML            29 mins         >------------------------   04.05 %
-Other           23 mins         >------------------------   03.25 %
+JavaScript      5 hrs 43 mins   >>>>>>>>>>>>>>-----------   54.60 %
+TypeScript      1 hr 16 mins    >>>----------------------   12.12 %
+YAML            1 hr 9 mins     >>>----------------------   11.05 %
+JSON            49 mins         >>-----------------------   07.94 %
+Solidity        42 mins         >>-----------------------   06.73 %
+TOML            29 mins         >------------------------   04.73 %
+Python          5 mins          -------------------------   00.91 %
+Bash            3 mins          -------------------------   00.62 %
+Markdown        2 mins          -------------------------   00.39 %
+Other           1 min           -------------------------   00.27 %
 ```
 
 <!--END_SECTION:waka-->
