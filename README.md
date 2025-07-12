@@ -2,15 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 July 2025 - To: 10 July 2025
+From: 04 July 2025 - To: 11 July 2025
 
-Total Time: 2 hrs 26 mins
+Total Time: 1 hr 21 mins
 
-YAML         39 mins         >>>>>>>------------------   26.66 %
-TypeScript   38 mins         >>>>>>>------------------   26.40 %
-TOML         27 mins         >>>>>--------------------   18.96 %
-JavaScript   24 mins         >>>>---------------------   17.05 %
-Other        11 mins         >>-----------------------   08.18 %
+TypeScript   40 mins         >>>>>>>>>>>>>------------   50.07 %
+JavaScript   25 mins         >>>>>>>>-----------------   30.74 %
+Other        11 mins         >>>>---------------------   14.23 %
 ```
 
 <!--END_SECTION:waka-->
