@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 July 2025 - To: 16 July 2025
+From: 10 July 2025 - To: 17 July 2025
 
-Total Time: 1 hr 39 mins
+Total Time: 2 hrs 1 min
 
-YAML         45 mins         >>>>>>>>>>>--------------   45.53 %
-Docker       18 mins         >>>>>--------------------   18.59 %
-Bash         8 mins          >>-----------------------   08.90 %
-INI          8 mins          >>-----------------------   08.83 %
-Other        6 mins          >>-----------------------   06.84 %
+YAML         49 mins         >>>>>>>>>>---------------   40.73 %
+Docker       36 mins         >>>>>>>>-----------------   30.08 %
+Bash         8 mins          >>-----------------------   07.31 %
+INI          8 mins          >>-----------------------   07.26 %
+Other        6 mins          >------------------------   05.62 %
 ```
 
 <!--END_SECTION:waka-->
