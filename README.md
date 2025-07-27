@@ -2,14 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 July 2025 - To: 25 July 2025
+From: 19 July 2025 - To: 26 July 2025
 
-Total Time: 10 mins
+Total Time: 8 mins
 
-JSON   7 mins          >>>>>>>>>>>>>>>>>>-------   70.88 %
-C++    1 min           >>>>---------------------   15.80 %
-YAML   1 min           >>>----------------------   13.14 %
-INI    0 secs          -------------------------   00.17 %
+JSON   7 mins          >>>>>>>>>>>>>>>>>>>>>----   84.18 %
+YAML   1 min           >>>>---------------------   15.61 %
+INI    0 secs          -------------------------   00.21 %
 ```
 
 <!--END_SECTION:waka-->
