@@ -2,12 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 21 July 2025 - To: 28 July 2025
+From: 22 July 2025 - To: 29 July 2025
 
-Total Time: 1 min
+Total Time: 27 mins
 
-YAML   1 min           >>>>>>>>>>>>>>>>>>>>>>>>>   98.69 %
-INI    0 secs          -------------------------   01.31 %
+C            12 mins         >>>>>>>>>>>--------------   44.65 %
+TypeScript   9 mins          >>>>>>>>-----------------   33.05 %
+Bash         4 mins          >>>>---------------------   17.33 %
+YAML         1 min           >------------------------   04.90 %
+INI          0 secs          -------------------------   00.06 %
 ```
 
 <!--END_SECTION:waka-->
