@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Total Time: 11 hrs 5 mins
+Total Time: 12 hrs 36 mins
 
-Lua     6 hrs 49 mins   >>>>>>>>>>>>>>>----------   61.52 %
-Text    2 hrs 21 mins   >>>>>--------------------   21.19 %
-INI     52 mins         >>-----------------------   07.86 %
-C++     30 mins         >------------------------   04.60 %
-Other   20 mins         >------------------------   03.01 %
+Lua     7 hrs 47 mins   >>>>>>>>>>>>>>>----------   61.84 %
+Text    2 hrs 50 mins   >>>>>>-------------------   22.60 %
+INI     52 mins         >>-----------------------   06.92 %
+C++     33 mins         >------------------------   04.38 %
+Other   20 mins         >------------------------   02.65 %
 ```
 
 <!--END_SECTION:waka-->
