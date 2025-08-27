@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 August 2025 - To: 25 August 2025
+From: 19 August 2025 - To: 26 August 2025
 
-Total Time: 1 hr
+Total Time: 1 hr 3 mins
 
-Lua          36 mins         >>>>>>>>>>>>>>>----------   61.03 %
-Other        12 mins         >>>>>--------------------   20.72 %
+Lua          36 mins         >>>>>>>>>>>>>>>----------   58.56 %
+Other        12 mins         >>>>>--------------------   19.88 %
 ```
 
 <!--END_SECTION:waka-->
