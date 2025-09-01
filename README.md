@@ -2,13 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 23 August 2025 - To: 30 August 2025
+From: 24 August 2025 - To: 31 August 2025
 
-Total Time: 1 hr 33 mins
+Total Time: 1 hr 57 mins
 
-JSON         32 mins         >>>>>>>>>----------------   34.62 %
-PHP          23 mins         >>>>>>-------------------   25.26 %
-Other        13 mins         >>>----------------------   13.94 %
+JSON         32 mins         >>>>>>>------------------   27.88 %
+TypeScript   26 mins         >>>>>>-------------------   22.79 %
+PHP          23 mins         >>>>>--------------------   20.22 %
+Other        13 mins         >>>----------------------   11.22 %
 ```
 
 <!--END_SECTION:waka-->
