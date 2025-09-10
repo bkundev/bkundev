@@ -2,17 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 September 2025 - To: 08 September 2025
+From: 02 September 2025 - To: 09 September 2025
 
-Total Time: 21 hrs 37 mins
+Total Time: 21 hrs 4 mins
 
-Python       8 hrs 36 mins   >>>>>>>>>>---------------   39.81 %
-Lua          4 hrs 35 mins   >>>>>--------------------   21.23 %
-C++          3 hrs 41 mins   >>>>---------------------   17.11 %
-Text         2 hrs 32 mins   >>>----------------------   11.76 %
-JavaScript   54 mins         >------------------------   04.21 %
-TypeScript   32 mins         >------------------------   02.48 %
-Other        13 mins         -------------------------   01.05 %
+Python       8 hrs 36 mins   >>>>>>>>>>---------------   40.85 %
+Lua          4 hrs 35 mins   >>>>>--------------------   21.78 %
+C++          3 hrs 41 mins   >>>>---------------------   17.55 %
+Text         2 hrs 32 mins   >>>----------------------   12.06 %
+JavaScript   54 mins         >------------------------   04.31 %
+Other        13 mins         -------------------------   01.07 %
 ```
 
 <!--END_SECTION:waka-->
