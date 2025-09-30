@@ -2,18 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 20 September 2025 - To: 27 September 2025
+From: 21 September 2025 - To: 28 September 2025
 
-Total Time: 13 hrs 25 mins
+Total Time: 8 hrs 59 mins
 
-JavaScript   4 hrs 46 mins   >>>>>>>>>----------------   35.64 %
-TypeScript   3 hrs 37 mins   >>>>>>>------------------   27.02 %
-C++          1 hr 23 mins    >>>----------------------   10.35 %
-Lua          1 hr 2 mins     >>-----------------------   07.81 %
-XML          57 mins         >>-----------------------   07.14 %
-INI          26 mins         >------------------------   03.25 %
-JSON         25 mins         >------------------------   03.12 %
-Other        15 mins         -------------------------   01.90 %
+TypeScript   3 hrs 54 mins   >>>>>>>>>>>--------------   43.41 %
+C++          1 hr 23 mins    >>>>---------------------   15.45 %
+Lua          1 hr 2 mins     >>>----------------------   11.66 %
+XML          57 mins         >>>----------------------   10.65 %
+INI          26 mins         >------------------------   04.85 %
+JavaScript   20 mins         >------------------------   03.80 %
+Text         13 mins         >------------------------   02.51 %
+Other        13 mins         >------------------------   02.45 %
 ```
 
 <!--END_SECTION:waka-->
