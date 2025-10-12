@@ -2,12 +2,12 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 03 October 2025 - To: 10 October 2025
+From: 04 October 2025 - To: 11 October 2025
 
-Total Time: 1 hr 34 mins
+Total Time: 1 hr 59 mins
 
-Lua      1 hr 14 mins    >>>>>>>>>>>>>>>>>>>>-----   78.32 %
-Python   20 mins         >>>>>--------------------   21.68 %
+Lua      1 hr 39 mins    >>>>>>>>>>>>>>>>>>>>>----   82.84 %
+Python   20 mins         >>>>---------------------   17.16 %
 ```
 
 <!--END_SECTION:waka-->
