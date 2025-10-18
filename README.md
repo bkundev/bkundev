@@ -2,15 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 October 2025 - To: 16 October 2025
+From: 10 October 2025 - To: 17 October 2025
 
-Total Time: 12 hrs 16 mins
+Total Time: 11 hrs 56 mins
 
-Lua      11 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>--   92.15 %
-Python   47 mins         >>-----------------------   06.49 %
-C++      5 mins          -------------------------   00.80 %
-XML      3 mins          -------------------------   00.41 %
-YAML     1 min           -------------------------   00.14 %
+Lua      11 hrs 19 mins  >>>>>>>>>>>>>>>>>>>>>>>>-   94.80 %
+Python   27 mins         >------------------------   03.80 %
+C++      5 mins          -------------------------   00.82 %
+XML      3 mins          -------------------------   00.43 %
+YAML     1 min           -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
