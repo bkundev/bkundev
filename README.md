@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 01 November 2025 - To: 08 November 2025
+From: 02 November 2025 - To: 09 November 2025
 
-Total Time: 2 hrs 33 mins
+Total Time: 1 hr 12 mins
 
-Rust         1 hr 6 mins     >>>>>>>>>>>--------------   43.32 %
-Markdown     30 mins         >>>>>--------------------   20.08 %
-TypeScript   24 mins         >>>>---------------------   16.09 %
-Other        10 mins         >>-----------------------   06.58 %
+Rust         46 mins         >>>>>>>>>>>>>>>>---------   64.77 %
+TOML         9 mins          >>>----------------------   13.49 %
+TypeScript   5 mins          >>-----------------------   07.63 %
+Other        3 mins          >------------------------   05.24 %
 ```
 
 <!--END_SECTION:waka-->
