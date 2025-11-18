@@ -2,17 +2,15 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 09 November 2025 - To: 16 November 2025
+From: 10 November 2025 - To: 17 November 2025
 
-Total Time: 38 mins
+Total Time: 1 hr 53 mins
 
-Python       26 mins         >>>>>>>>>>>>>>>>>--------   68.75 %
-JavaScript   3 mins          >>-----------------------   09.26 %
-Rust         3 mins          >>-----------------------   08.23 %
-Markdown     2 mins          >>-----------------------   07.60 %
-JSON         1 min           >------------------------   02.81 %
-Lua          0 secs          >------------------------   02.54 %
-Other        0 secs          -------------------------   00.63 %
+TypeScript   1 hr 43 mins    >>>>>>>>>>>>>>>>>>>>>>>--   91.20 %
+JavaScript   3 mins          >------------------------   03.18 %
+Rust         3 mins          >------------------------   02.83 %
+Markdown     2 mins          >------------------------   02.61 %
+Other        0 secs          -------------------------   00.12 %
 ```
 
 <!--END_SECTION:waka-->
