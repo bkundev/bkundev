@@ -2,14 +2,14 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 16 November 2025 - To: 23 November 2025
+From: 17 November 2025 - To: 24 November 2025
 
-Total Time: 5 hrs 37 mins
+Total Time: 5 hrs 4 mins
 
-JavaScript   3 hrs 13 mins   >>>>>>>>>>>>>>-----------   57.39 %
-TypeScript   1 hr 43 mins    >>>>>>>>-----------------   30.76 %
-Python       39 mins         >>>----------------------   11.77 %
-Other        0 secs          -------------------------   00.08 %
+JavaScript   3 hrs 15 mins   >>>>>>>>>>>>>>>>---------   64.41 %
+Lua          1 hr 7 mins     >>>>>>-------------------   22.28 %
+Python       39 mins         >>>----------------------   13.07 %
+Other        0 secs          -------------------------   00.09 %
 ```
 
 <!--END_SECTION:waka-->
