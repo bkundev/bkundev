@@ -2,18 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 18 November 2025 - To: 25 November 2025
+From: 19 November 2025 - To: 26 November 2025
 
-Total Time: 7 hrs 18 mins
+Total Time: 4 hrs 12 mins
 
-JavaScript   3 hrs 15 mins   >>>>>>>>>>>--------------   44.65 %
-Lua          2 hrs 27 mins   >>>>>>>>-----------------   33.55 %
-XML          46 mins         >>>----------------------   10.70 %
-Python       39 mins         >>-----------------------   09.06 %
-Text         5 mins          -------------------------   01.34 %
-C++          1 min           -------------------------   00.33 %
-Git Config   1 min           -------------------------   00.29 %
-Other        0 secs          -------------------------   00.06 %
+Lua          3 hrs 13 mins   >>>>>>>>>>>>>>>>>>>------   76.68 %
+XML          47 mins         >>>>>--------------------   18.63 %
+Text         5 mins          >------------------------   02.33 %
+C++          2 mins          -------------------------   01.03 %
+JavaScript   2 mins          -------------------------   00.81 %
+Git Config   1 min           -------------------------   00.50 %
+JSON         0 secs          -------------------------   00.04 %
 ```
 
 <!--END_SECTION:waka-->
