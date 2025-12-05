@@ -2,20 +2,16 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 26 November 2025 - To: 03 December 2025
+From: 27 November 2025 - To: 04 December 2025
 
-Total Time: 8 hrs 31 mins
+Total Time: 22 mins
 
-TypeScript   3 hrs 42 mins   >>>>>>>>>>>--------------   43.44 %
-Vue.js       2 hrs 7 mins    >>>>>>-------------------   24.93 %
-JavaScript   1 hr 25 mins    >>>>---------------------   16.67 %
-JSON         38 mins         >>-----------------------   07.51 %
-C++          22 mins         >------------------------   04.40 %
-HTML         5 mins          -------------------------   01.14 %
-Docker       2 mins          -------------------------   00.58 %
-Lua          2 mins          -------------------------   00.56 %
-Markdown     2 mins          -------------------------   00.41 %
-Bash         1 min           -------------------------   00.20 %
+JSON         10 mins         >>>>>>>>>>>--------------   45.63 %
+TypeScript   6 mins          >>>>>>>------------------   26.46 %
+Docker       2 mins          >>>----------------------   13.02 %
+Markdown     1 min           >>-----------------------   08.63 %
+Bash         1 min           >------------------------   04.52 %
+Other        0 secs          -------------------------   01.07 %
 ```
 
 <!--END_SECTION:waka-->
