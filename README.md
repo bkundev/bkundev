@@ -2,16 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 30 November 2025 - To: 07 December 2025
+From: 01 December 2025 - To: 08 December 2025
 
-Total Time: 22 mins
+Total Time: 32 mins
 
-JSON         10 mins         >>>>>>>>>>>--------------   45.63 %
-TypeScript   6 mins          >>>>>>>------------------   26.46 %
-Docker       2 mins          >>>----------------------   13.02 %
-Markdown     1 min           >>-----------------------   08.63 %
-Bash         1 min           >------------------------   04.52 %
-Other        0 secs          -------------------------   01.07 %
+JSON         10 mins         >>>>>>>>-----------------   31.91 %
+C++          9 mins          >>>>>>>>-----------------   30.07 %
+TypeScript   6 mins          >>>>>--------------------   18.50 %
+Docker       2 mins          >>-----------------------   09.10 %
+Markdown     1 min           >>-----------------------   06.03 %
+Bash         1 min           >------------------------   03.16 %
+Other        0 secs          -------------------------   00.75 %
 ```
 
 <!--END_SECTION:waka-->
