@@ -2,12 +2,13 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 05 December 2025 - To: 12 December 2025
+From: 06 December 2025 - To: 13 December 2025
 
 Total Time: 24 mins
 
-TypeScript   14 mins         >>>>>>>>>>>>>>>----------   59.07 %
-C++          9 mins          >>>>>>>>>>---------------   40.93 %
+TypeScript   14 mins         >>>>>>>>>>>>>>-----------   57.62 %
+C++          9 mins          >>>>>>>>>>---------------   39.93 %
+JSON         0 secs          >------------------------   02.45 %
 ```
 
 <!--END_SECTION:waka-->
