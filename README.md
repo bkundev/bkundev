@@ -2,15 +2,18 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 12 December 2025 - To: 19 December 2025
+From: 13 December 2025 - To: 20 December 2025
 
-Total Time: 23 mins
+Total Time: 1 hr 59 mins
 
-JavaScript   20 mins         >>>>>>>>>>>>>>>>>>>>>>---   89.41 %
-TypeScript   1 min           >------------------------   04.37 %
-HTML         0 secs          >------------------------   03.30 %
-JSON         0 secs          >------------------------   02.62 %
-CSS          0 secs          -------------------------   00.30 %
+Docker                     38 mins         >>>>>>>>-----------------   32.18 %
+Nginx configuration file   34 mins         >>>>>>>------------------   28.74 %
+JavaScript                 21 mins         >>>>---------------------   17.93 %
+YAML                       11 mins         >>-----------------------   09.22 %
+Bash                       10 mins         >>-----------------------   08.41 %
+TypeScript                 2 mins          >------------------------   02.46 %
+HTML                       0 secs          -------------------------   00.64 %
+Other                      0 secs          -------------------------   00.36 %
 ```
 
 <!--END_SECTION:waka-->
