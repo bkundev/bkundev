@@ -2,18 +2,17 @@
 <!--START_SECTION:waka-->
 
 ```all_time
-From: 13 January 2026 - To: 20 January 2026
+From: 14 January 2026 - To: 21 January 2026
 
-Total Time: 2 hrs 38 mins
+Total Time: 36 mins
 
-Python       2 hrs 2 mins    >>>>>>>>>>>>>>>>>>>------   77.17 %
-JavaScript   22 mins         >>>>---------------------   14.48 %
-Go           9 mins          >>-----------------------   06.13 %
-JSON         2 mins          -------------------------   01.56 %
-HTML         0 secs          -------------------------   00.22 %
-PowerShell   0 secs          -------------------------   00.21 %
-Batchfile    0 secs          -------------------------   00.12 %
-Text         0 secs          -------------------------   00.11 %
+JavaScript   22 mins         >>>>>>>>>>>>>>>>---------   63.51 %
+Go           9 mins          >>>>>>>------------------   26.87 %
+JSON         2 mins          >>-----------------------   06.72 %
+HTML         0 secs          -------------------------   00.97 %
+PowerShell   0 secs          -------------------------   00.93 %
+Batchfile    0 secs          -------------------------   00.51 %
+Text         0 secs          -------------------------   00.50 %
 ```
 
 <!--END_SECTION:waka-->
